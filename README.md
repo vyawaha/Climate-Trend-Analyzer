@@ -123,6 +123,4 @@ Example:
 ---
 
 ## 👨‍💻 Author
-
-Your Name
 Muktai Vyawahare
